@@ -1,3 +1,5 @@
+Currently working on this project
+
 # leetcode_solution_fetch_project-using_HTML-CSS-JavaScript using CHATGPT API
 
 This is a web application that allows users to fetch solutions to LeetCode problems using the ChatGPT API. It's built using HTML, CSS, and JavaScript on the frontend, and it uses the ChatGPT API on the backend to fetch the solutions.
@@ -23,7 +25,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 This project was built using the following resources:
 
-- [LeetCode](https://leetcode.com/)
 - [ChatGPT API](https://github.com/shreyash00007/chatGPT)
 
 ## Contributing
